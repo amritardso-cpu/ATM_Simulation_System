@@ -33,9 +33,8 @@ It is useful for beginners learning:
 1. Classes and objects
 2. Methods
 3. Encapsulation
-4. Collections
-5. Loops
-6. Conditional statements
+4. Loops
+5. Conditional statements
 
 # Academic Projects
 The system can be used as a mini-project for demonstrating a basic banking application.
@@ -43,7 +42,7 @@ The system can be used as a mini-project for demonstrating a basic banking appli
 # Java Learners
 Students learning Java can use it to understand how multiple classes work together in a real-world application.
 
-## 4. High-Level Features
+# 4. High-Level Features
 
 # 1. User Authentication
 The system verifies the account number and PIN before allowing the user to access ATM services.
